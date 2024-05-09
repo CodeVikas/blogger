@@ -1,0 +1,35 @@
+.paddingall {
+    padding: 10px 10px 10px 10px;
+}
+
+.pricesubtitle {
+    font-size: 14px;
+}
+
+.iconstyle {
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.gradient{
+    background: linear-gradient(#874b7c, #ffffff);
+}
+.gradientlight{
+    background: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+    linear-gradient(127deg,rgba(0, 145, 255, 0.823), rgba(0,255,0,0) 70.71%),
+    linear-gradient(336deg,rgba(0,255,0,.8), rgba(0,0,255,0) 70.71%);
+}
+.gradientdark{
+    background-image: linear-gradient(to right, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+}
+.gradientdark1{
+    background-image: linear-gradient(to right, #72fd00, #00f98d, #00eed7, #00ddfe, #00c7ff, #3dc4fd, #56c2fb, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+}
+.bgcolor{
+    min-height: 100vh;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(255,255,255,0) 35%, rgba(0,212,255,1) 100%);
+}
+#error{
+    color: red;
+    text-decoration: underline;
+}
